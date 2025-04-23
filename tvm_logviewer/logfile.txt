@@ -1,0 +1,20 @@
+./IMS.log_20250409081706.log
+
+Parsing finished
+Parsed lines: 86758
+
+./IMS.log_20250409081724.log
+
+Parsing finished
+Parsed lines: 88074
+
+./IMS.log_20250409082908.log
+
+Parsing finished
+Parsed lines: 6072
+
+./IMS.log_20250409085500.log
+
+Parsing finished
+Parsed lines: 7891
+
